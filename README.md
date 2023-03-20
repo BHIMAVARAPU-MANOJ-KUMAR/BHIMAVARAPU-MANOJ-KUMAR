@@ -21,7 +21,7 @@ Certified Java TechStack Software Engineer
 ------------------------------------------
 
 * 🌍  I'm based in Vijayawada, Andhra Pradesh, 522501, India
-* 🖥️  See my portfolio at [Portfolio Website](http://bhimavarapu-manoj-kumar.github.io/Portfolio-Website/)
+* 🖥️  See my portfolio at [My Portfolio Website](http://bhimavarapu-manoj-kumar.github.io/Portfolio-Website/)
 * ✉️  You can contact me at [manojbh1999@gmail.com](mailto:manojbh1999@gmail.com)
 * ✉️  You can contact me at [+91 9010917345](tel:+919010917345)
 * 🧠  I'm learning new Web Application Framework Angular that uses TypeScript
