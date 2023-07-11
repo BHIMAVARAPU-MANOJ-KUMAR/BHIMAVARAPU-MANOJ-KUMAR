@@ -28,6 +28,7 @@ Certified Java TechStack Software Engineer
 
 <a href="https://www.github.com/BHIMAVARAPU-MANOJ-KUMAR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BHIMAVARAPU-MANOJ-KUMAR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
 
 ### Skills
 
