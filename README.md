@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manoj Kumar Reddy Bhimavarapu
 =====================================================================================================================================================
 
-Certified Java TechStack Software Engineer
+Java Full Stack Software Developer
 ------------------------------------------
 
 * 🌍  I'm based in Vijayawada, Andhra Pradesh, 522501, India
 * 🖥️  See my portfolio at [My Portfolio Website](http://bhimavarapu-manoj-kumar.github.io/Portfolio-Website/)
 * ✉️  You can contact me at [manojbh1999@gmail.com](mailto:manojbh1999@gmail.com)
-* ✉️  You can contact me at [+91 9010917345](tel:+919010917345)
 * 🧠  I'm learning a Web Application Framework Angular that uses TypeScript.
 
 <a href="https://www.github.com/BHIMAVARAPU-MANOJ-KUMAR" target="_blank" rel="noreferrer"><img
