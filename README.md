@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar Reddy</h1>
 <h3 align="center">A passionate Java Full Stack Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhimavarapu-manoj-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="bhimavarapu-manoj-kumar" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhimavarapu-manoj-kumar" alt="bhimavarapu-manoj-kumar" /></a> </p>
 
 - 🌱 I’m currently learning **Angular Framework**
