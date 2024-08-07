@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manoj Kumar Reddy</h1>
 <h3 align="center">A passionate Java Full Stack Software Developer from India</h3>
+<img align="right" width="400" style="border-radius: 15px 50px;" alt="Coding, Programming, BackEnd Developer" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhimavarapu-manoj-kumar" alt="bhimavarapu-manoj-kumar" /></a> </p>
+- 🔭 I’m currently working on [Events Management System](https://github.com/BHIMAVARAPU-MANOJ-KUMAR/Event-Management-System-GyanGrove-Backend-Intern-Assignment)
 
 - 🌱 I’m currently learning **Angular Framework**
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **Spring Framework, Spring Boot, Java, Angular**
 
 - 📫 How to reach me **manojbh1999@gmail.com**
+
+- ⚡ Fun fact **All the world’s bacteria stacked on top of each other would stretch for 10 billion light-years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
