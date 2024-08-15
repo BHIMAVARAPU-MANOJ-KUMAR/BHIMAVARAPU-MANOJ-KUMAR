@@ -1,10 +1,16 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:3000/1*Ixsd2xEANEGowq8G4R1WoA.png)](https://bhimavarapu-manoj-kumar.github.io/Portfolio-Website/)
 
-<h1 align="center">Hi 👋, I'm Manoj Kumar Reddy Bhimavarapu</h1>
-<h3 align="center">A passionate Java Full Stack Software Developer from India</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&font=Righteous&size=35&pause=1000&color=F76F14&width=500&height=60&lines=Hi+Everyone!+%F0%9F%91%8B;I'm+Manoj+Kumar+Reddy" alt="Typing SVG"/>
+</h1>
+<h3 align="center">👨🏼‍💻 A Passionate Java Full Stack Software Developer from India</h3>
 <img align="right" width="400" style="border-radius: 15px 50px;" alt="Coding, Programming, BackEnd Developer" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-### 💫 About Me:
+### 💫 About Me: <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
+
+- 👀 Currently looking for full-time positions as a **Full-Stack Software Developer**, available to start immediately.
+
+- 🤝 Open to work as a **Full-Stack Developer**, **Front-End Developer**, **Back-End Developer**, **Entry-Level Software Engineer**, **Java Developer**.
 
 - 🔭 I’m currently working on [Events Management System](https://github.com/BHIMAVARAPU-MANOJ-KUMAR/Event-Management-System-GyanGrove-Backend-Intern-Assignment)
 
@@ -14,7 +20,7 @@
 
 - 💬 Ask me about **Spring Framework, Spring Boot, Java, Angular**
 
-- 📫 How to reach me **manojbh1999@gmail.com**
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](**manojbh1999@gmail.com**)
 
 - ⚡ Fun fact **All the world’s bacteria stacked on top of each other would stretch for 10 billion light-years.**
 
@@ -24,7 +30,11 @@
 
 ### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimavarapu-manoj-kumar-reddy)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimavarapu-manoj-kumar-reddy) [![Website](https://img.shields.io/badge/website-000000.svg?logo=About.me&logoColor=white)](https://bhimavarapu-manoj-kumar.github.io/Portfolio-Website/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/manoj.kumar.reddy.bhimavarapu/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=919010917345&text=Hello%2C%20I%20found%20you%20on%20GitHub.%0AI%27m%20impressed!)
+
+</div>
 
 ### 💻 Tech Stack:
 
