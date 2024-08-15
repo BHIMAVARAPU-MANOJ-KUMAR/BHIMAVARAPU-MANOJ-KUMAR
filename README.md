@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Spring Framework, Spring Boot, Java, Angular**
 
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](**manojbh1999@gmail.com**)
+- 📫 How to reach me **manojbh1999@gmail.com**
 
 - ⚡ Fun fact **All the world’s bacteria stacked on top of each other would stretch for 10 billion light-years.**
 
