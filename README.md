@@ -30,7 +30,13 @@
 
 - ⚡ Fun fact **All the world’s bacteria stacked on top of each other would stretch for 10 billion light-years.**
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+- 🕺 Let’s Dance! **Feel free to ⭐ or 🍴 any of my Repositories! 🚀**
+
+<div align="center">
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1024"/>
+
+</div>
 
 ### 🏆 GitHub Trophies
 
@@ -95,4 +101,8 @@
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0278.gif" width="1920"/>
+<div align="center">
+
+<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0278.gif" width="1024"/>
+
+</div>
