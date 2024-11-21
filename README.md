@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Spring Framework, Spring Boot, Java, Angular**
 
-- 📫 How to reach me **manojbh1999@gmail.com**
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=red&link=mailto:manojbh1999@gmail.com)](mailto:manojbh1999@gmail.com)
 
 - ⚡ Fun fact **All the world’s bacteria stacked on top of each other would stretch for 10 billion light-years.**
 
@@ -47,6 +47,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimavarapu-manoj-kumar-reddy) [![Website](https://img.shields.io/badge/website-000000.svg?logo=About.me&logoColor=white)](https://bhimavarapu-manoj-kumar.github.io/Portfolio-Website/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/manoj.kumar.reddy.bhimavarapu/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=919010917345&text=Hello%2C%20I%20found%20you%20on%20GitHub.%0AI%27m%20impressed!)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=darkred&link=mailto:manojbh1999@gmail.com)](mailto:manojbh1999@gmail.com)
 
 </div>
 
